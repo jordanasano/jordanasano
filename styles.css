@@ -197,3 +197,8 @@ body {
     padding-bottom: 30px;
     font-size: 40px;
 }
+
+.project-card {
+    height: 100em;
+    width: 50em;
+}
