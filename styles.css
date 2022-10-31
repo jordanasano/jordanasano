@@ -199,6 +199,13 @@ body {
 }
 
 .project-card {
-    height: 30em;
-    width: 15em;
+    height: 50em;
+    width: 75em;
+    align-items: center;
+}
+
+.project-card-gif {
+    height: 50em;
+    width: 25em;
+    align-items: center;
 }
