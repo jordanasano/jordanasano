@@ -176,3 +176,24 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+/* Projects styles */
+.projects-wrapper {
+    display: grid;
+    width: 50%;
+    text-align: left;
+    top: 30%;
+    width: 60%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.projects-wrapper h1 {
+    padding-top: 100px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
